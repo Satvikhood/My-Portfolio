@@ -1,4 +1,4 @@
-import Terminal from "../components/terminal.tsx";
+import Terminal from "../components/Terminal.tsx";
 
 export default function About() {
   const terminalLines = [
